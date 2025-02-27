@@ -8,3 +8,4 @@ Here you can find my personal writings on the following topics to further your k
 3) Computer Networks
 4) Product Owner and Scrum Master
 5) Design Patterns
+6) Cloud computing with AWS
